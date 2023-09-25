@@ -334,9 +334,7 @@ footer a {
 	main {
 		box-shadow: none;
 	}
-	article p:nth-child(2) {
-		display: inline-block;
-	}
+
 	.s img {
 		float: left;
 		margin-right: 5px;
